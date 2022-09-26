@@ -1,1 +1,1 @@
-# .github
+# CMake Package Repository for [`CPM`](https://github.com/cpm-cmake/CPM.cmake),  [`FetchContent`](https://cmake.org/cmake/help/latest/module/FetchContent.html), and [`ExternalProject`](https://cmake.org/cmake/help/latest/module/ExternalProject.html)
